@@ -9,6 +9,7 @@
         <entry key="ECMAScript 6" value="true" />
       </map>
     </option>
+    <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
