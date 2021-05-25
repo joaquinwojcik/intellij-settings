@@ -4,6 +4,7 @@
       <mapping pattern="encryption_key" type="AUTO_DETECTED" />
       <mapping pattern="POSTGRES_PASSWORD" type="AUTO_DETECTED" />
       <mapping pattern="encryption_key_iv" type="AUTO_DETECTED" />
+      <mapping pattern=".env" type="AUTO_DETECTED" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
