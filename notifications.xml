@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Built-in Server" displayType="NONE" />
+  </component>
+</application>

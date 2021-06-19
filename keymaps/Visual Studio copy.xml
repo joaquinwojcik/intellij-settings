@@ -1,15 +1,38 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt f12" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CodeCleanup" />
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="EditorToggleUseSoftWraps" />
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoFile" />
+  <action id="InsertLiveTemplate" />
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="shift ctrl numpad2" />
   </action>
@@ -19,6 +42,9 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
@@ -26,4 +52,17 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="SilentCodeCleanup" />
+  <action id="SurroundWithLiveTemplate" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="TerminalSplitActionBase$Vertical">
+    <keyboard-shortcut first-keystroke="alt numpad6" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Unscramble" />
 </keymap>
