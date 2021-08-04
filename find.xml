@@ -1,15 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <mask>*.yaml</mask>
-    <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
+    <mask>*.yaml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
