@@ -7,7 +7,7 @@
     <mask>*.php</mask>
     <mask>*.yaml</mask>
     <mask>*.yml</mask>
-    <mask>*.json</mask>
     <mask>*.yaml, *.yml</mask>
+    <mask>*.json</mask>
   </component>
 </application>
