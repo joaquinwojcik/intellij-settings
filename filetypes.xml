@@ -10,8 +10,8 @@
       <mapping pattern="asdasdasd" type="AUTO_DETECTED" />
       <mapping pattern="TransbankMerchantInformerCreadetMessage" type="AUTO_DETECTED" />
       <mapping pattern="POSTGRES_PASSWORD" type="AUTO_DETECTED" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env-ci.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.template" type="PLAIN_TEXT" />
