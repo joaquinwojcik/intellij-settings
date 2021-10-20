@@ -2,11 +2,13 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="authserver_client_id" type="AUTO_DETECTED" />
+      <mapping pattern="trake_client_id" type="AUTO_DETECTED" />
       <mapping pattern="jwt_public_key" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="authserver_client_secret" type="AUTO_DETECTED" />
       <mapping pattern="encryption_key" type="AUTO_DETECTED" />
       <mapping pattern="encryption_key_iv" type="AUTO_DETECTED" />
+      <mapping pattern="trake_client_secret" type="AUTO_DETECTED" />
       <mapping pattern="asdasdasd" type="AUTO_DETECTED" />
       <mapping pattern="TransbankMerchantInformerCreadetMessage" type="AUTO_DETECTED" />
       <mapping pattern="POSTGRES_PASSWORD" type="AUTO_DETECTED" />
