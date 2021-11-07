@@ -46,6 +46,9 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeCleanup" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift alt 7" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="Editor Copy">
