@@ -7,6 +7,7 @@
       <mapping pattern="jwt_public_key" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="authserver_client_secret" type="AUTO_DETECTED" />
+      <mapping pattern="mongodb-url" type="AUTO_DETECTED" />
       <mapping pattern="encryption_key" type="AUTO_DETECTED" />
       <mapping pattern="encryption_key_iv" type="AUTO_DETECTED" />
       <mapping pattern="trake_client_secret" type="AUTO_DETECTED" />
@@ -25,6 +26,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="wt" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
