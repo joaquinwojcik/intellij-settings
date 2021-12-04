@@ -1,0 +1,6 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/projects/macro/etc/secrets/trake_client_id" />
+    <file url="file://$USER_HOME$/projects/macro/etc/secrets/trake_client_secret" />
+  </component>
+</application>

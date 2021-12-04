@@ -7,13 +7,6 @@
       <jdbc-url>jdbc:mysql://db-dev-01.calmgyz63b5z.us-east-1.rds.amazonaws.com:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="@localhost" uuid="d698d799-dbb3-4de5-af02-d207189de705">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
     <data-source source="LOCAL" name="DB PreProd" uuid="937bd578-eda7-4c93-9c81-51d405eca59f">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
@@ -25,7 +18,7 @@
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://127.0.0.1:3306</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
     <data-source source="LOCAL" name="DB Prod 07" uuid="11243530-6ad4-4722-ac92-0cae18c7f2a2">

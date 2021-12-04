@@ -1,20 +1,43 @@
-<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+<keymap version="1" name="jwmap" parent="Visual Studio">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
   <action id="ActivateCommitToolWindow">
-    <keyboard-shortcut first-keystroke="alt 2" />
+    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateDatabaseToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt f12" />
   </action>
   <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="meta 1" />
   </action>
-  <action id="ActivateRunToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta 5" />
+  </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt 3" />
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
   </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt r" />
@@ -23,8 +46,26 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeCleanup" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift alt 7" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -48,6 +89,9 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="SaveDocument">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -59,6 +103,12 @@
   <action id="SurroundWithLiveTemplate" />
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="TerminalSplitActionBase$Vertical">
     <keyboard-shortcut first-keystroke="alt numpad6" />
   </action>
