@@ -20,9 +20,7 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
-  <action id="ActivateDebugToolWindow">
-    <keyboard-shortcut first-keystroke="meta 5" />
-  </action>
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt f12" />
@@ -31,7 +29,7 @@
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl meta 5" />
+    <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
@@ -50,6 +48,9 @@
     <keyboard-shortcut first-keystroke="shift alt 7" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -98,6 +99,9 @@
   <action id="SendEOF" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="SilentCodeCleanup" />
   <action id="SurroundWithLiveTemplate" />
