@@ -21,5 +21,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.yml, *.yaml</mask>
   </component>
 </application>
