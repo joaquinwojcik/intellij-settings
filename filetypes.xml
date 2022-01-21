@@ -19,8 +19,10 @@
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env-ci.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="amex_pvk" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.template" type="PLAIN_TEXT" />
       <mapping pattern=".env.template" type="PLAIN_TEXT" />
+      <mapping pattern="amex_cert" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
