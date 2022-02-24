@@ -8,9 +8,9 @@
     <mask>*.yaml</mask>
     <mask>*.yaml, *.yml</mask>
     <mask>*.json</mask>
-    <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*.yml, *.yaml</mask>
+    <mask>stack.yml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -22,6 +22,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
-    <mask>stack.yml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
