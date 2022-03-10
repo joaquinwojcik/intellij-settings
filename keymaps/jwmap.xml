@@ -14,6 +14,7 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
