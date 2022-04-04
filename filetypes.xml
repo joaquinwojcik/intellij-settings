@@ -2,25 +2,31 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="authserver_client_id" type="AUTO_DETECTED" />
-      <mapping pattern="amex_client_secret" type="AUTO_DETECTED" />
-      <mapping pattern="TransbankMerchantInformerCreadetMessage" type="AUTO_DETECTED" />
       <mapping pattern="amex_api_key_secret" type="AUTO_DETECTED" />
       <mapping pattern="trake_client_id" type="AUTO_DETECTED" />
       <mapping pattern="jwt_public_key" type="AUTO_DETECTED" />
+      <mapping pattern="cbu_authentication_id_entidad" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
-      <mapping pattern="POSTGRES_PASSWORD" type="AUTO_DETECTED" />
       <mapping pattern="authserver_client_secret" type="AUTO_DETECTED" />
+      <mapping pattern="cbu_authentication_clave" type="AUTO_DETECTED" />
       <mapping pattern="mongodb-url" type="AUTO_DETECTED" />
       <mapping pattern="encryption_key" type="AUTO_DETECTED" />
       <mapping pattern="encryption_key_iv" type="AUTO_DETECTED" />
       <mapping pattern="trake_client_secret" type="AUTO_DETECTED" />
       <mapping pattern="asdasdasd" type="AUTO_DETECTED" />
-      <mapping pattern=".env.test.template" type="PLAIN_TEXT" />
+      <mapping pattern="amex_client_secret" type="AUTO_DETECTED" />
+      <mapping pattern="TransbankMerchantInformerCreadetMessage" type="AUTO_DETECTED" />
+      <mapping pattern="cbu_authentication_token" type="AUTO_DETECTED" />
+      <mapping pattern="POSTGRES_PASSWORD" type="AUTO_DETECTED" />
+      <mapping pattern="cbu_authentication_id_pin" type="AUTO_DETECTED" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern=".env.template" type="PLAIN_TEXT" />
       <mapping pattern=".env-ci.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="amex_pvk" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test.template" type="PLAIN_TEXT" />
+      <mapping pattern=".env.template" type="PLAIN_TEXT" />
+      <mapping pattern="amex_cert" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
