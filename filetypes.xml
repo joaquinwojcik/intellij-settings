@@ -12,6 +12,7 @@
       <mapping pattern="mongodb-url" type="AUTO_DETECTED" />
       <mapping pattern="encryption_key" type="AUTO_DETECTED" />
       <mapping pattern="encryption_key_iv" type="AUTO_DETECTED" />
+      <mapping pattern="postgres_password" type="AUTO_DETECTED" />
       <mapping pattern="trake_client_secret" type="AUTO_DETECTED" />
       <mapping pattern="asdasdasd" type="AUTO_DETECTED" />
       <mapping pattern="amex_client_secret" type="AUTO_DETECTED" />
