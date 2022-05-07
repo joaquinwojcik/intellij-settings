@@ -24,6 +24,7 @@
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env-ci.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="amex_pvk" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.template" type="PLAIN_TEXT" />
