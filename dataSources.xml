@@ -56,5 +56,12 @@
       <jdbc-url>jdbc:mysql://mysql:3307</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="Account Service Dev" uuid="0eea8122-6c0d-4441-98ce-ffa5ce0a67fb">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://account-account-dev.cluster-c1iqkfjuxs3p.us-east-1.rds.amazonaws.com:5432/postgres</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
