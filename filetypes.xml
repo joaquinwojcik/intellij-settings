@@ -16,6 +16,7 @@
       <mapping pattern="trake_client_secret" type="AUTO_DETECTED" />
       <mapping pattern="asdasdasd" type="AUTO_DETECTED" />
       <mapping pattern="amex_client_secret" type="AUTO_DETECTED" />
+      <mapping pattern="asdasd" type="AUTO_DETECTED" />
       <mapping pattern="TransbankMerchantInformerCreadetMessage" type="AUTO_DETECTED" />
       <mapping pattern="cbu_authentication_token" type="AUTO_DETECTED" />
       <mapping pattern="POSTGRES_PASSWORD" type="AUTO_DETECTED" />
