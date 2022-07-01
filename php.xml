@@ -1,17 +1,17 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="2ea72fc9-e6e6-40ad-90b4-5bbfb60de867" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.25/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="2ea72fc9-e6e6-40ad-90b4-5bbfb60de867" name="PHP 7.4" home="/usr/local/Cellar/php@7.4/7.4.30/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.4/7.4.25/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.4/7.4.25/bin/php" path_separator=":" version="7.4.25">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.4/7.4.30/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.4/7.4.30/bin/php" path_separator=":" version="7.4.30">
           <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.25/share/php@7.4/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.30/share/php@7.4/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="3.1.1">
@@ -28,6 +28,7 @@
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
+            <extension name="amqp" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
