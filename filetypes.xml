@@ -22,7 +22,6 @@
       <mapping pattern="POSTGRES_PASSWORD" type="AUTO_DETECTED" />
       <mapping pattern="cbu_authentication_id_pin" type="AUTO_DETECTED" />
       <mapping pattern="asd" type="AUTO_DETECTED" />
-      <removed_mapping ext="ng" type="HTML" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env-ci.example" type="PLAIN_TEXT" />
@@ -43,6 +42,7 @@
       <mapping ext="wt" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
