@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.yaml</mask>
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.yaml, *.yml</mask>
     <mask>*.json</mask>
     <mask>*.twig</mask>
@@ -23,5 +23,6 @@
     <mask>*.inc</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
